@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset files
+Dataset/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
